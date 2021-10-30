@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://Den1f.github.io/"
 title   = "Deep's portfolio"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -17,7 +17,7 @@ archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
-publishDir   = "public"
+publishDir   = "Den1f.github.io"
 
 buildDrafts  = false
 buildFuture  = false
@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Jane Doe"
+  name = "Deep"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "This is for my portfolio"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -118,7 +118,7 @@ disableHugoGeneratorInject = false
     topText = []
     bottomText = [
       "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-      "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
+      #"Made with &#10084; by <a href=\"https://github.com/Den1f</a>"
     ]
 
   # Colors for favicons
@@ -158,25 +158,25 @@ disableHugoGeneratorInject = false
   #   maxWidth = "50px"
 
   # Social icons
-  [[params.social]]
+  #[[params.social]]
     name = "twitter"
     url  = "https://twitter.com/"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "deniferdeep@gmail.com"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/Den1f"
 
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/"
+  #[[params.social]]
+    #name = "linkedin"
+    #url  = "https://www.linkedin.com/"
 
-  [[params.social]]
-    name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+  #[[params.social]]
+    #name = "stackoverflow"
+    #url  = "https://www.stackoverflow.com/"
 
 [languages]
   [languages.en]
@@ -191,10 +191,11 @@ disableHugoGeneratorInject = false
 
 [menu]
   [[menu.main]]
-    identifier = "about"
-    name       = "About"
+    identifier = "Contact us"
+    name       = "Contact us"
     url        = "about/"
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+  

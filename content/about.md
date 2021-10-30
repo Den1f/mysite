@@ -1,19 +1,13 @@
 +++
-title = "About"
-date = "2014-04-09"
+title = "Contact us"
+date = "2021-10-30"
 aliases = ["about-us","about-hugo","contact"]
 [ author ]
   name = "Hugo Authors"
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+You can contact me here.
+[gmail](deniferdeep@gmail.com)
 
-It makes use of a variety of open source projects including:
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Have a look at my projects at [GitHub](https://github.com/Den1f).
