@@ -1,13 +1,11 @@
 +++
-title = "Contact us"
+title = "Blog"
 date = "2021-10-30"
 aliases = ["about-us","about-hugo","contact"]
 [ author ]
   name = "Hugo Authors"
 +++
 
-You can contact me here.
-[gmail](deniferdeep@gmail.com)
+Had a great experience while doing the amFOSS tasks. This is a site i created using hugo which was actually fun, though i couldn't add much in this website but will be working on it real soon as its really exciting to do.
 
-
-Have a look at my projects at [GitHub](https://github.com/Den1f).
+While doing the tasks i learned so many new things 
